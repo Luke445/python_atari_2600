@@ -14,6 +14,14 @@ you will need roms to play games
 
 ## Controls
 
+### console switches
+these controls are always present
+select:                   <kbd>s</kbd><br>
+reset:                    <kbd>r</kbd><br>
+difficulty 1 toggle:      <kbd>1</kbd><br>
+difficulty 2 toggle:      <kbd>2</kbd><br>
+black and white toggle:   <kbd>b</kbd><br>
+
 ### Joystick
 <kbd>←</kbd><kbd>↑</kbd><kbd>→</kbd><kbd>↓</kbd><br>
 arrow keys for joystick<br>

@@ -15,7 +15,7 @@ you will need roms to play games
 ## Controls
 
 ### console switches
-these controls are always present
+these controls are always present<br>
 select:                   <kbd>s</kbd><br>
 reset:                    <kbd>r</kbd><br>
 difficulty 1 toggle:      <kbd>1</kbd><br>

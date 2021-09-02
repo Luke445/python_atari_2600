@@ -10,4 +10,4 @@ numpy and pygame are required and can be installed/updated with
 ### running
 
 simply run `python3 atari.py`
-you will need a roms to play games
+you will need roms to play games
